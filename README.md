@@ -6,7 +6,7 @@ Undergraduate computer science major with a primary interest in reverse engineer
 
 | Emulation | Reversing |
 |-----------|-----------|
-| <table style="margin-left: auto; margin-right: auto;"><tr><th>Project</th><th>Status</th></tr><tr><td>[ROM Verifier](https://github.com/wheeler-cs/rom-checksum)</td><td>active</td></tr><tr><td>[Project Verdant](https://github.com/wheeler-cs/project-verdant)</td><td>active</td></tr></table> | <table style="margin-left: auto; margin-right: auto;"><tr><th>Project</th><th>Status</th></tr><tr><td>[PE Feature Extract](https://github.com/wheeler-cs/PE-Extract)</td><td>active</td></tr></table> |
+| <table style="margin-left: auto; margin-right: auto;"><tr><th>Project</th><th>Status</th></tr><tr><td>[ROM Hasher](https://github.com/wheeler-cs/rom-hash)</td><td>active</td></tr><tr><td>[Project Verdant](https://github.com/wheeler-cs/project-verdant)</td><td>active</td></tr></table> | <table style="margin-left: auto; margin-right: auto;"><tr><th>Project</th><th>Status</th></tr><tr><td>[PE Feature Extract](https://github.com/wheeler-cs/PE-Extract)</td><td>active</td></tr></table> |
 
 | Cryptography | Classes |
 |--------------|---------|
